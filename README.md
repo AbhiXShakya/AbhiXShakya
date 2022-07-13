@@ -20,7 +20,7 @@
 
 ## 🏂 My GitHub Stats
 
-<div align="flex">
+<div>
 <a href="https://github-readme-stats.vercel.app/api/top-langs/?username=AbhiXShakya&langs_count=8&theme=tokyonight&layout=compact" target="_blank" rel="noopener noreferrer" title="My Skills">
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=AbhiXShakya&langs_count=8&theme=tokyonight&layout=compact" height="180rem" />
 </a>&nbsp;
