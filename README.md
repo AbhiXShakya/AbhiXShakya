@@ -18,16 +18,7 @@
 
 <br />
 
-## 🏂 My GitHub Stats
 
-<div>
-<a href="https://github-readme-stats.vercel.app/api/top-langs/?username=AbhiXShakya&langs_count=8&theme=tokyonight&layout=compact" target="_blank" rel="noopener noreferrer" title="My Skills">
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=AbhiXShakya&langs_count=8&theme=tokyonight&layout=compact" height="180rem" />
-</a>&nbsp;
-<a href="https://github-readme-stats.vercel.app/api?username=AbhiXShakya&show_icons=true&count_private=true&theme=tokyonight" target="_blank" rel="noopener noreferrer" title="My GitHub Status">
-<img src="https://github-readme-stats.vercel.app/api?username=AbhiXShakya&show_icons=true&count_private=true&theme=tokyonight" height="180rem"/>
-</a>
-</div>
 
 <br />
 
